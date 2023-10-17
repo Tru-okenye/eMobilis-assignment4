@@ -1,4 +1,5 @@
-*PYTHON*
+*PYTHON*  
+
 This a python project that grades a student based on there marks:   
 we find the sum of the student marks using the *AND* operator  
 and store it in a *variable*. We then find the average by diving   
