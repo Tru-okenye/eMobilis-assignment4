@@ -1,4 +1,4 @@
-*PYTHON* 
+*PYTHON*
 
 
 This a python project that grades a student based on there marks:   
