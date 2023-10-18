@@ -1,9 +1,11 @@
-math = 100
-eng = 90
-geo = 85
-chem = 65
 
-Total = math + eng + geo + chem
+math=float(input("enter your math marks"))
+phy=float(input("enter your english marks"))
+geo=float(input("enter your geogrphy marks"))
+chem=float(input("enter your chemistry marks"))
+
+
+Total = math + phy + geo + chem
 Avg = Total/4
 
 if Avg < 0:
